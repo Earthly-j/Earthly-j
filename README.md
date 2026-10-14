@@ -10,9 +10,8 @@
   
 | **작업 기한** | **프로젝트 명** | **기술 스택** | **담당 기능** | **링크** | **시연 영상** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 25.01.20 ~ 25.03.07 (6주) | [A+ market] 중고거래 앱 프로젝트 | Java, Flutter, SpringBoot, MyBatis | 거래(결제/충전) | [🔗](https://github.com/minhi0449/applus-market) | [▶️](https://www.youtube.com/watch?v=YkKou24WBqs&t=358s) |
-| 24.11.18 ~ 24.12.26 (6주) | [Antwork] 그룹웨어 웹 프로젝트 | Java, React, SpringBoot, JPA | 게시판 | [🔗](https://github.com/minhi0449/antwork) | [▶️](https://www.youtube.com/watch?v=EtwH4WvMnJo&t=764s) |
-| 24.10.21 ~ 24.11.15 (5주) | [롯데 e-커머스] LOTTE ON 쇼핑몰 | Java, SpringBoot, JPA, Thymeleaf | 회원 | [🔗](https://github.com/minhi0449/lotte-on) | [▶️](https://www.youtube.com/watch?v=1m4JSA8JhtQ) |
+| 25.01.20 ~ 25.03.07 (6주) | EOC Cafe ID app | Flutter| 정보 입력 | [🔗](https://github.com/Earthly-j/english_only_cafe_project) | 
+| 24.11.18 ~ 24.12.26 (6주) | | Java, React, SpringBoot, JPA | 게시판 | [🔗](https://github.com/minhi0449/antwork) | [▶️](https://www.youtube.com/watch?v=EtwH4WvMnJo&t=764s) |
 
 </div>
 
