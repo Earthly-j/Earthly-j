@@ -5,16 +5,6 @@
 </div>
 
 
-<h2>🛠 사용 기술</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <!-- 백엔드 핵심 언어 -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"> <!-- 크로스 플랫폼 프레임워크 -->
-  <img src="https://img.shields.io/badge/Amazon_AWS-EF880F?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS"> <!-- 클라우드 서비스 -->
-</div>
-
-<h2>👀 나의 정보</h2>
-
-
 <h2>🔍 프로젝트 </h2>
 <div align="center">
   
