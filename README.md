@@ -4,13 +4,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=37A008&width=435&lines=Building+better+software%2C+together.)](https://git.io/typing-svg)
 </div>
 
-<h2>👀 나의 정보</h2>
+
+<h2>🛠 사용 기술</h2>
 <div align="center">
-  
-| **이메일** | **포트폴리오** | **기술 블로그** | **프로젝트 저장소** | **개발 컨텐츠** |
-|:----------:|:-------------:|:--------------:|:------------------:|:--------------:|
-| <a href="mailto:minhi0449@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.notion.so/SW-23826d451b22804e964feac693d7aa3f"><img src="https://img.shields.io/badge/Notion-1a1d24?style=for-the-badge&logo=notion&logoColor=white" /></a> | <a href="https://autulatu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff524b?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="https://github.com/minhi0449?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://www.youtube.com/@%EA%B9%80%EB%AF%BC%ED%9D%AC-f4y"><img src="https://img.shields.io/badge/YouTube-FF3839?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <!-- 백엔드 핵심 언어 -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"> <!-- 크로스 플랫폼 프레임워크 -->
+  <img src="https://img.shields.io/badge/Amazon_AWS-EF880F?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS"> <!-- 클라우드 서비스 -->
 </div>
+
+<h2>👀 나의 정보</h2>
 
 
 <h2>🔍 프로젝트 </h2>
@@ -39,12 +41,6 @@
 
 -->
 
-<h2>🛠 사용 기술</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <!-- 백엔드 핵심 언어 -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"> <!-- 크로스 플랫폼 프레임워크 -->
-  <img src="https://img.shields.io/badge/Amazon_AWS-EF880F?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS"> <!-- 클라우드 서비스 -->
-</div>
 
 
 <h2>📊 GitHub 통계</h2>
