@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">☼ 좋은 아침, 좋은 점심, 좋은 저녁입니다 .ᐟ </h3>
+  <h3 align="center"> Hello, world! 👋 Welcome to my GitHub.</h3>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+KR&weight=500&duration=4000&pause=1993&color=515256&center=true&vCenter=true&multiline=true&random=true&width=565&lines=%F0%9F%A4%9D+%ED%8C%80%EA%B3%BC+%ED%95%A8%EA%BB%98+%EC%84%B1%EC%9E%A5%ED%95%98%EB%A9%B0%2C+%EA%B0%80%EC%B9%98%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%E3%80%8C+%EA%B9%80%EB%AF%BC%ED%9D%AC+%E3%80%8D%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 </div>
@@ -41,7 +41,7 @@
 
 <h2>🛠 사용 기술</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /> <!-- 자바 웹 프레임워크 -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <!-- 백엔드 핵심 언어 -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"> <!-- 크로스 플랫폼 프레임워크 -->
   <img src="https://img.shields.io/badge/Amazon_AWS-EF880F?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS"> <!-- 클라우드 서비스 -->
 </div>
