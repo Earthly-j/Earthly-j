@@ -8,10 +8,10 @@
 <h2>🔍 프로젝트 </h2>
 <div align="center">
   
-| **작업 기한** | **프로젝트 명** | **기술 스택** | **담당 기능** | **링크** | **시연 영상** |
+| **project deadline** | **project name** | **skill stack** | **Responsibilities** | **Link** | **demo video** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 25.01.20 ~ 25.03.07 (6주) | EOC Cafe ID app | Flutter| 정보 입력 | [🔗](https://github.com/Earthly-j/english_only_cafe_project) | 
-| 24.11.18 ~ 24.12.26 (6주) | | Java, React, SpringBoot, JPA | 게시판 | [🔗](https://github.com/minhi0449/antwork) | [▶️](https://www.youtube.com/watch?v=EtwH4WvMnJo&t=764s) |
+| 25.01.20 ~ 25.03.07 (6주) | Movie Slider app | Flutter | 정보 입력 | [🔗](https://github.com/Earthly-j/english_only_cafe_project) | 
+| 24.11.18 ~ 24.12.26 (6주) | | Shipping Agent | 게시판 | [🔗](https://github.com/Earthly-j/movieSlider) | |
 
 </div>
 
