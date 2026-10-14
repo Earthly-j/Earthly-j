@@ -5,20 +5,20 @@
 </div>
 
 
-<h2>🔍 프로젝트 </h2>
+<h2>🔍 Project </h2>
 <div align="center">
   
 | **project deadline** | **project name** | **skill stack** | **Responsibilities** | **Link** | **demo video** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 25.01.20 ~ 25.03.07 (6주) | Movie Slider app | Flutter | 정보 입력 | [🔗](https://github.com/Earthly-j/english_only_cafe_project) | 
-| 24.11.18 ~ 24.12.26 (6주) | | Shipping Agent | 게시판 | [🔗](https://github.com/Earthly-j/movieSlider) | |
+| 25.01.20 ~ 25.03.07 (6주) | Movie Slider app | Flutter | building, publish | [🔗](https://github.com/Earthly-j/english_only_cafe_project) | 
+| 26.10.2 ~ 24.11.14 (6주) | | Shipping Agent | pay system | [🔗](https://github.com/Earthly-j/movieSlider) | |
 
 </div>
 
 
 
 <!-- 프로젝트 담당기능 아이콘
-## 🔍 프로젝트
+## 🔍 Project
 <div align="center">
   
 | 작업 기한 | 프로젝트 명 | 기술 스택 | 담당 기능 | 링크 | 시연 영상 |
@@ -32,7 +32,7 @@
 
 
 
-<h2>📊 GitHub 통계</h2>
+<h2>📊 GitHub stats</h2>
 <div align="center" style="margin: 30px 0;">
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=Earthly-j&custom_title=Hyukjun%27s%20Github%20Stats&bg_color=180,000000,&title_color=000000&text_color=000000" />
