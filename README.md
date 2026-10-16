@@ -11,7 +11,7 @@
 | **project deadline** | **project name** | **skill stack** | **Responsibilities** | **Link** | **demo video** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 25.01.20 ~ 25.03.07 (6주) | Movie Slider app | Flutter | building, publish | [🔗](https://github.com/Earthly-j/english_only_cafe_project) | 
-| 26.10.2 ~ 24.10.31 (6주) |Shipping Agent | Java | pay system | [🔗](https://github.com/Earthly-j/movieSlider) | |
+| 26.10.2 ~ 24.10.31 (4주) |Shipping Agent | Java | pay system | [🔗](https://github.com/Earthly-j/movieSlider) | |
 
 </div>
 
